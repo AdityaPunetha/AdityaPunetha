@@ -3,6 +3,10 @@
 <h3>Student and ML/AI Enthusiast</h3>
 <br>
 <br>
+<h3>Languages and Tools:</h3>
+<p><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
+<br>
+<br>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPunetha&layout=compact&theme=dark&hide=PHP" alt="Top Languages" /></div>
 <br>
 <br>
