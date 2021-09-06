@@ -1,8 +1,12 @@
 <h1> Hi, I'm Aditya Punetha! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>
 </h1>
 <h3>Student and ML/AI Enthusiast</h3>
-<a> Connect with me on <a href="https://www.linkedin.com/in/aditya-punetha/" target="_blank">LinkedIn. 
-<img alt="Aditya Punetha" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+<ul>
+<li> Connect with me on <a href="https://www.linkedin.com/in/aditya-punetha/" target="_blank">LinkedIn.</a> 
+<img alt="Aditya Punetha" width="15px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></li>
+<li>3 ⭐ coder on <a href= "https://www.codechef.com/users/adityapunetha">CodeChef.</a></li>
+<li> Watch me code on <a href = "https://www.hackerrank.com/AdityaPunetha">HackerRank.</a></li >
+</ul>
 <br>
 <h3>Languages:</h3>
 <p>
